@@ -1,2 +1,2 @@
-# Haymanot-Berelie.github.io
+# haymanot.github.io
 my website
